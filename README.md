@@ -9,7 +9,7 @@ This is a webpage created to explore basic HTML
 
 ## Setup/Installation Requirements
 
-* Clone this repository from https://github.com/mattfmiller/workshop_project
+* Clone this repository from https://github.com/mattfmiller/cookie-recipe
 * Open in a browser
 
 ## Known Bugs
